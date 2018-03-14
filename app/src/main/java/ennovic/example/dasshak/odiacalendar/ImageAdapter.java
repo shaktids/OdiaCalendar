@@ -14,7 +14,7 @@ import com.example.dasshak.odiacalendar.R;
 
 public class ImageAdapter extends PagerAdapter {
     private Context mContext;
-    private int[] mImageIds=new int[]{R.drawable.jan,R.drawable.feb,R.drawable.mar, R.drawable.apr,R.drawable.may,R.drawable.jun,R.drawable.july,R.drawable.sept,R.drawable.oct,R.drawable.nov,R.drawable.dec};
+    private int[] mImageIds=new int[]{R.drawable.jan,R.drawable.feb,R.drawable.mar, R.drawable.apr,R.drawable.may,R.drawable.jun,R.drawable.july,R.drawable.aug,R.drawable.sept,R.drawable.oct,R.drawable.nov,R.drawable.dec};
     ImageAdapter(Context context){
         mContext=context;
     }

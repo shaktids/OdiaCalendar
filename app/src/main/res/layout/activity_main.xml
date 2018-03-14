@@ -41,7 +41,7 @@
 
 
             app:adSize="BANNER"
-            app:adUnitId="ca-app-pub-3940256099942544/6300978111"
+            app:adUnitId="@string/banner_ad_unit_id1"
             tools:ignore="MissingConstraints" />
 
         <LinearLayout

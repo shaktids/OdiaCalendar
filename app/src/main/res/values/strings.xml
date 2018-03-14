@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">OdiaCalendar</string>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="banner_ad_unit_id1">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>//Google Deafult
+    <string name="banner_ad_unit_id1">ca-app-pub-7856118129660697/5927245538</string>
+    <string name="admob_interstitial_id">ca-app-pub-7856118129660697/8613629370</string>
 
 </resources>
